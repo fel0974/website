@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300&family=Pacifico&display=swap');
+body{
+margin: 0;
+background-color: rgb(40,114, 51);
+}
+h1{
+font-family: 'Pacifico', cursive;
+
+}
+h3{
+font-family: 'Inconsolata', monospace;
+}
+.contenedor{
+width: 1000px;
+background:rgb(37,41,50);
+margin: 0px auto auto auto;
+padding: 20px;
+}
+.titulo{
+text-align: center;
+margin: 0 auto ;
+}
+
+.cuerpo{
+background-color: rgb(40,114,51);
+margin: 0px 50px 20px 50px;
+padding: 15px
+
+}
+
+.foto{
+background-color: rgb(40,114,51);
+border:2px solid rgb(0,255,0);
+text-align: center;
+}
+
+.pie{
+background-color: rgb(40,114,51);
+text-align:center;
+margin:50px;
+padding: 20px;
+
+}
